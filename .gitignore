@@ -1,0 +1,6 @@
+ex
+*.out
+*.exe
+__pycache__/
+*.pyc
+.venv/
